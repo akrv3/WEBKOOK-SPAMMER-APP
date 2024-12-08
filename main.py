@@ -19,7 +19,7 @@ def webhookspamm():
 app = customtkinter.CTk()
 app.geometry("500x500")
 app.title("Webhook tool - akr") 
-app.iconbitmap('logo.ico')
+app.iconbitmap('IMG_4588.ico')
 
 tabview = CTkTabview(master=app)
 tabview.pack(padx=100, pady=100)
